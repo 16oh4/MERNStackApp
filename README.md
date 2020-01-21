@@ -1,6 +1,8 @@
 ## MERN Stack App
 This project uses the MERN stack to create a web app for tracking exercises in a task-list format. Created to learn full-stack development.
 
+![alt text](https://raw.githubusercontent.com/16oh4/MERNStackApp/master/exercises.PNG)
+
 ## List of technologies used:
 MongoDB Atlas for database.
 Express.js for the backend.
