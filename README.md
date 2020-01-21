@@ -1,5 +1,5 @@
 ## MERN Stack App
-This project uses the MERN stack to create a web app for tracking exercises in a task-list format. 
+This project uses the MERN stack to create a web app for tracking exercises in a task-list format. Created to learn full-stack development.
 
 ## List of technologies used:
 MongoDB Atlas for database.
